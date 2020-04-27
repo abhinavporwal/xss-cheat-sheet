@@ -1,4 +1,4 @@
-#xss-cheat-sheet
+#XSS Cheat Sheet
 
 Top Most Important XSS Script Cheat Sheet for Web Application Penetration Testing.
 
